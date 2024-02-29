@@ -17,7 +17,7 @@ A backend functionality where user can give vote to the given set of candidates.
 
 ## User Authentication:
     /signup: POST - Create a new user account.
-    /login: POST - Log in to an existing account. [ aadhar card number + password ]
+    /login: POST - Log in to an existing account.
 
 ## Voting:
     /candidates: GET - Get the list of candidates.
